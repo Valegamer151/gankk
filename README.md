@@ -1,5 +1,5 @@
 <h1 align="center">hola 👋 soy Gankk</h1>
-<h3 align="center">Un apasionado desarrollador Software de Aregntina</h3>
+<h3 align="center">Un apasionado desarrollador Software de Argentina</h3>
 
 - 🔭 actualmente estoy trabajando en **Newbery**
 
