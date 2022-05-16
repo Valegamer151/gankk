@@ -7,6 +7,11 @@
 
 - 👯 busco colaborar en **Proyectos**
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+
+<br/>  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/gankk#0558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="" height="30" width="40" /></a>
